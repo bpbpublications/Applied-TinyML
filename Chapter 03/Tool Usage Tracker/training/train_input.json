@@ -1,0 +1,26 @@
+{
+    "classes": [
+        "correct",
+        "incorrect"
+    ],
+    "mode": "classification",
+    "printHWInfo": false,
+    "inputShapeString": "(39,)",
+    "yType": "npy",
+    "trainTestSplit": 0.2,
+    "stratifiedTrainTest": false,
+    "convertInt8": true,
+    "profileInt8": true,
+    "skipEmbeddingsAndMemory": false,
+    "objectDetectionAugmentation": false,
+    "syntiantTarget": false,
+    "maxTrainingTimeSeconds": 1200,
+    "remainingGpuComputeTimeSeconds": null,
+    "isEnterpriseProject": false,
+    "flattenDataset": false,
+    "akidaModel": false,
+    "akidaEdgeModel": false,
+    "skipMemoryProfiling": false,
+    "tensorboardLogging": false,
+    "customValidationSplit": false
+}

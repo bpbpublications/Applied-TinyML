@@ -1,0 +1,26 @@
+{
+    "classes": [
+        "face"
+    ],
+    "mode": "object-detection",
+    "printHWInfo": false,
+    "inputShapeString": "(96, 96, 3)",
+    "yType": "structured",
+    "trainTestSplit": 0.2,
+    "stratifiedTrainTest": false,
+    "convertInt8": true,
+    "profileInt8": true,
+    "skipEmbeddingsAndMemory": false,
+    "objectDetectionLastLayer": "fomo",
+    "objectDetectionAugmentation": true,
+    "syntiantTarget": false,
+    "maxTrainingTimeSeconds": 1200,
+    "remainingGpuComputeTimeSeconds": null,
+    "isEnterpriseProject": false,
+    "flattenDataset": true,
+    "akidaModel": false,
+    "akidaEdgeModel": false,
+    "skipMemoryProfiling": false,
+    "tensorboardLogging": false,
+    "customValidationSplit": false
+}

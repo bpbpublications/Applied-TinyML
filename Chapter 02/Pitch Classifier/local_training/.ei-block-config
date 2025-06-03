@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "config": {
+        "studio.edgeimpulse.com": {
+            "type": "transferLearning",
+            "organizationId": 30622,
+            "tlOperatesOn": "audio"
+        }
+    }
+}
